@@ -41,9 +41,9 @@ const Navbar = () => {
                     href="https://prescripto-admin-t67n.onrender.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className=""
+                    className="border px-4 py-1 rounded-full border-gray-400 text-gray-600 hover:bg-gray-600 hover:text-white transition-all duration-400"
                 >
-                    Admin
+                    Admin Panel
                 </a>
             </ul>
             <div className='flex items-center gap-4'>
